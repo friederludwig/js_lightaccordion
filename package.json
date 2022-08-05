@@ -1,0 +1,23 @@
+{
+  "name": "lightaccordion",
+  "version": "1.0.0",
+  "description": "A lightweight accordion with configuration options",
+  "main": "src/accordion.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/friederludwig/js_lightaccordion.git"
+  },
+  "keywords": [
+    "js",
+    "accordion"
+  ],
+  "author": "Frieder Ludwig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/friederludwig/js_lightaccordion.git/issues"
+  },
+  "homepage": "https://github.com/friederludwig/js_lightaccordion.git#readme"
+}
